@@ -1,2 +1,2 @@
  
-Preentaciones de la asignatura Tópicos en CC (NLP)
+Presentaciones de la asignatura Tópicos en CC (NLP)
